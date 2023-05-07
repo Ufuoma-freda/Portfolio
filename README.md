@@ -34,7 +34,7 @@ You can download my CV [as a PDF from my Google Drive](https://drive.google.com/
 - Clickup
 
 ## Courses
-- UnbugQa Academy
+- [UnbugQa Academy](https://drive.google.com/file/d/14OEzORa9zHxacEiH4WamE0SIuRECggXz/view?usp=share_link)
     - Fundamentals of Software Testing
     - Python Fundamentals
     - Javascript Fundamentals
