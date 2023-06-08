@@ -60,4 +60,4 @@ Demo Bug Report #2 on Notion: [Screenshot of the bug report](https://drive.googl
 [Restful Booker](https://restful-booker.herokuapp.com/) was tested and [collections](https://www.postman.com/galactic-station-686614/workspace/booker/folder/18439990-e10cfeb5-69a5-4292-bc17-2b1d54cd5576?ctx=documentation) were created for every endpoint.
 
 - Newman Test Result
-After the test on [Restful Booker](https://restful-booker.herokuapp.com/), [a Newman test result](https://drive.google.com/drive/folders/104hv3dkC9qbkNgBUveKw0vwUOk_fXKKg?usp=sharing) was created. The document might have to be downloaded before it can be viewed.
+After the test on [Restful Booker](https://restful-booker.herokuapp.com/), [a Newman test result](https://drive.google.com/file/d/1n36pIlMie_zhC8nVNrzNdEN5-Hj7XQML/view?usp=sharing) was created. The document might have to be downloaded before it can be viewed.
